@@ -1,1 +1,0 @@
-# score-result-frontend-mentor
